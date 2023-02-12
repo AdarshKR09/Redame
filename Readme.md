@@ -1,1 +1,1 @@
-{"status":"true","data":"12334","result":"yes"}
+SMTP-TO-SMS-LICENSE-31444335-3631-584E-4436-B0227AE76298
